@@ -1,8 +1,9 @@
 ## Hey there, I'm [Rajarshi](rajarshi.super.site)! 👋 
 
-- I'm a data scientist, economist, and part-time designer. 
+- I'm a Economics and Data Science undergrad @Indian Institute of Science Education and Research, Bhopal.
+- I also do UIUX and graphic design, along with Machine Learning and Data Science.
 - I'm big time into the world of fintech and venture capital. I'm also exploring Web3 , esp the DeFi space. If you have any opportunites / ideas, please reach out. 
-- If you need help with your data, some business/finance analytics, or just need a good laugh, I'm your guy.
+- If you need help with your data, business/finance analytics, or just need a good laugh, I'm your guy.
 
 What I do
 - 🔍 I dig deep into data, finding insights and telling stories with visualizations and models.
