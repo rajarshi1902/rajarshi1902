@@ -14,6 +14,7 @@ What I do
 - 📈 [Stock Sentiment Analysis Through Financial News Headlines](https://github.com/rajarshi1902/Live-Stock-Sentiment_Treemap): I'm using natural language processing to analyze the sentiment of financial news headlines and visualize them on an interactive heatmap.
 - 🎂 [How Common Is Your Birthday?](https://public.tableau.com/app/profile/rajarshi.bhattacharjee/viz/BirthdayDashboard_16753450191200/Dashboard1): I analyzed the distribution of birthdays using Tableau Public, and the results may surprise you.
 - 💰 [Optimal Bank Marketing Strategies Using Machine Learning](https://github.com/rajarshi1902/Bank-Marketing-Strategies): I'm helping banks improve their marketing campaigns by identifying critical factors like age group, time of year, and employment history.
+- 💰 [Loans And Banks](https://github.com/rajarshi1902/BanksAndLoans): Analyze banks' response to uncollectable debts, assessing cost-effectiveness of higher recovery strategies.
 
 Skills
 - 💻 Python (Numpy, Pandas, Matplotlib, Seaborn, SKLearn, TensorFlow etc.), SQL, R, Git, HTML, CSS
