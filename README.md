@@ -14,4 +14,4 @@ Urban & spatial economics · Transportation · Economics of innovation · Applie
 **Stack**
 R · Python · Stata · SQL · LaTeX · MATLAB
 
-Previously: BS-MS Economics @ IISER Bhopal · [rajarshi.super.site](http://rajarshi1902.github.io)
+Previously: BS-MS Economics @ IISER Bhopal · [website](http://rajarshi1902.github.io)
