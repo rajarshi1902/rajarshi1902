@@ -1,9 +1,8 @@
 ### Hi, I'm Rajarshi
 
-First-year PhD student in Economics at UC Santa Cruz. My research sits at the intersection of urban/spatial economics, applied microeconomics, and the economics of innovation — with a growing interest in banking and finance through a spatial lens.
-
+PhD student in Economics at UC Santa Cruz. My research sits at the intersection of urban, crime and the economics of innovation. 
 **Research interests**
-Urban & spatial economics · Transportation · Economics of innovation · Applied econometrics · Causal inference · Banking & finance
+Urban & spatial economics · Artificial Intelligence and the Economy · Economics of Crime · Applied econometrics · Banking & finance
 
 **Current work**
 - Nascent projects in urban and crime economics.
